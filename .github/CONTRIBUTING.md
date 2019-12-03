@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Alex Escribano Villena 
+
 First, thank you for considering contributing to front-end-checklist! It's people like you that make the open source community such a great community! 😊
 
 We welcome any type of contribution, not only code. You can help with 
